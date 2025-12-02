@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 I'm Hojjat Jahanpour.<br>💻 Passionate about software development and coding.<br>🌍 Currently working on innovative projects and tools.<br>📚 Always learning and exploring new technologies.<br>🎨 Enjoying the creative process of building applications.<br>🎉 Just here to make a difference!
+I'm Hojjat — a developer who believes in clarity, performance, and precision.
+I write systems that scale, code that stays clean under pressure, and tools that solve real problems.
+Security isn’t a feature for me — it’s a foundation.
+I work deep in the backend, close to the logic, where architecture matters and shortcuts don’t.
+
+I keep learning, refining, and pushing limits.
+Quiet focus. Clean execution. Reliable results.
 
 
 ## 🌐 Socials:
